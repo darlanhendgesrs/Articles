@@ -54,7 +54,7 @@ Here is an example of how you might use DI in a simple ASPNET Core application:
         }
     }
 
-## The last part is to register our abstraction and our implementations according to properly lifetime.
+## The last part is to register our interface and our class according using the properly lifetime.
 
     public class Startup
     {
