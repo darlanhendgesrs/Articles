@@ -239,4 +239,4 @@ Here are a few popular third-party libraries for creating test doubles in C#:
 -   Autofake: A library that helps you create test doubles by analyzing the code under test and automatically generating the appropriate fakes and mocks for you.
 
 
-**To sum up, now you are aware of each of kind of tests exists. Also knowing the properly lib will be easier your life.**
+**To sum up: knowing each of kind of test exist will make your life easier**
